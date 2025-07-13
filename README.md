@@ -44,7 +44,7 @@ J.K.K. Nattaraja College of Engineering
 
 **Higher Secondary**  
 Mrs. Matric. Hr. Sec. School  
-`Graduated 2021` | 80.1%  
+`Completed 2021` | 80.1%  
 
 ---
 
