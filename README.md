@@ -20,7 +20,7 @@ REST APIs • JWT Authentication • ORM • Data Structures
 _Django | PyTorch | PythonAnywhere Hosting_  
 • Trained unsupervised CycleGAN model to colorize grayscale SAR imagery  
 • Developed real-time processing web app with Django backend  
-• Deployed solution on PythonAnywhere for environmental analysis applications  
+• Integrate with Django for environmental analysis applications  
 
 ### 🏢 Worksphere Organization System
 _Django REST | JWT | ReactJS | MySQL_  
@@ -49,9 +49,9 @@ Mrs. Matric. Hr. Sec. School
 ---
 
 ## Professional Strengths
-• **Backend Focus**: Specialized in Django/Spring Boot development with REST API expertise  
+• **Backend Focus**: Specialized in Django/Spring Boot development with REST API   
 • **AI Integration**: Practical experience with PyTorch (CycleGAN) and LLM fine-tuning  
 • **Problem Solver**: Proven ability to transform technical concepts into deployed solutions  
-• **Collaborative**: Experience mentoring peers through technical workshops  
+• **Collaborative**: mentoring peers through technical workshops  
 
 > Open to collaboration on Python/Django projects • Available for full-time SDE roles
